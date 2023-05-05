@@ -121,19 +121,4 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 ## Bibliografia
 ### Fuentes de imformación 
 - <a href="https://dotnet.microsoft.com/es-es/languages/csharp"> C# MicroSoft Lenguajes </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+- <a href="https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B"> Pilboras Informaticas </a>
