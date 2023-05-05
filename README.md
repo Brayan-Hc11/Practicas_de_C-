@@ -16,35 +16,35 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 ## Temario de aprendizaje
 
 ### Sintaxis de C#
--Variables <br>
--Operaciones <br>
--Expreciones <br>
--Bucles <br>
--Codicionales <br>
+- Variables <br>
+- Operaciones <br>
+- Expreciones <br>
+- Bucles <br>
+- Codicionales <br>
 
 ### POO
--Clases <br>
--Objetos <br>
--Estructuras <br>
--Tipos enumerados <br>
--Arrays <br>
--Herencia <br>
--Interfaces <br>
--Excepciones <br>
+- Clases <br>
+- Objetos <br>
+- Estructuras <br>
+- Tipos enumerados <br>
+- Arrays <br>
+- Herencia <br>
+- Interfaces <br>
+- Excepciones <br>
 
 ### Caracteristícas Avanzadas 
--Propuedades <br> 
--Indexaciones <br>
--Tipos genéricos <br>
--Colecciones <br>
--Sabrecarga <br> 
--Trabajo con archivos <br>
--serialización <br>
+- Propuedades <br> 
+- Indexaciones <br>
+- Tipos genéricos <br>
+- Colecciones <br>
+- Sabrecarga <br> 
+- Trabajo con archivos <br>
+- serialización <br>
 
 ### Construcción de aplicaciones para Windows 10
--Interfaces de usuario <br>
--Acceso a BBDD <br>
--Integración con Windows Store <br>
+- Interfaces de usuario <br>
+- Acceso a BBDD <br>
+- Integración con Windows Store <br>
 
 ### Software de uso 
 - El IDE o entorno de desarrollo que se va ha estar usar en el desarrollo de C# será <a href="https://visualstudio.microsoft.com/es/">Visual Studio </a>
