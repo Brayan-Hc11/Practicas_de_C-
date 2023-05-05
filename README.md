@@ -48,5 +48,8 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 
 ### Software de uso 
 - El IDE o entorno de desarrollo que se va ha estar usar en el desarrollo de C# será <a href="https://visualstudio.microsoft.com/es/">Visual Studio </a>
-- La Versión estable que se estará usando durante el desarrollo será: 10.0 del 21 de marzo del 2022  
+- La Versión estable que se estará usando durante el desarrollo será: 10.0 del 21 de marzo del 2022
+
+### Nivel de conocimiento 
+-Podrá adquirir un nivel de conocimiento "Básico-medio" al finalizar la formación
   
