@@ -45,4 +45,7 @@ serialización <br>
 Interfaces de usuario <br>
 Acceso a BBDD <br>
 Integración con Windows Store <br>
+
+### Software de uso 
+ El IDE o entorno de desarrollo que se va ha estar usar en el desarrollo de C# será Visual Studio 
   
