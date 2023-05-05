@@ -16,10 +16,14 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 ## Temario de aprendizaje
 
 ### Sintaxis de C#
-Variables, Operaciones, Expreciones, Bucles y Codicionales.
+Variables <br>
+Operaciones <br>
+Expreciones <br>
+Bucles <br>
+Codicionales <br>
 
 ### POO
-1). Clases <br>
+<br>Clases <br>
 2). Objetos <br>
 3). Estructuras <br>
 4). Tipos enumerados <br>
