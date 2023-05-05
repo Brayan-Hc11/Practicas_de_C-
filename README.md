@@ -19,7 +19,14 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 Variables, Operaciones, Expreciones, Bucles y Codicionales.
 
 ### POO
-Clases, Objetos, Estructuras, Tipos enumerados, Arrays, Herencia, Interfaces, Excepciones.
+1). Clases <br>
+2). Objetos <br>
+3). Estructuras <br>
+4). Tipos enumerados <br>
+5). Arrays <br>
+6). Herencia <br>
+7). Interfaces <br>
+8). Excepciones <br>
 
 ### Caracteristícas Avanzadas 
 Propuedades, Indexaciones, Tipos genéricos, Colecciones, Sabrecargas, Trabajo con archivos, serialización.
