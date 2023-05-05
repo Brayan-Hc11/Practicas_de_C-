@@ -42,5 +42,7 @@ Trabajo con archivos <br>
 serialización <br>
 
 ### Construcción de aplicaciones para Windows 10
-Interfaces de usuario, Acceso a BBDD, Integración con Windows Store.
+Interfaces de usuario <br>
+Acceso a BBDD <br>
+Integración con Windows Store <br>
   
