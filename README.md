@@ -69,8 +69,9 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
   - Son aquellas aplicaciones que se ejecutan y se vidualizan a traves de un Navegador web.
 
 ## Desarrollo 
-  Para el desarrollo de nuestra formación estaremos creando nuestra primera aplicatición de consola usando nuestro IDE.
-  
+  Para el desarrollo de nuestra formación estaremos creando nuestra primera aplicatición de consola usando nuestro IDE <a href="https://visualstudio.microsoft.com/es/">Visual Studio </a>.
+
+1). Para el desarrollo de nuestra primera aplicación de consola, ejecutaremos el IDE 
   
   
 
