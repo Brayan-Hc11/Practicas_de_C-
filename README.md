@@ -67,6 +67,60 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 ### Aplicaciones Web
 
   - Son aquellas aplicaciones que se ejecutan y se vidualizan a traves de un Navegador web.
+
+## Desarrollo 
+  Para el desarrollo de nuestra formación estaremos creando nuestra primera aplicatición de consola usando nuestro IDE.
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Bibliografia
+### Fuentes de imformación 
+- <a href="https://dotnet.microsoft.com/es-es/languages/csharp"> C# MicroSoft Lenguajes </a>
   
 
 
