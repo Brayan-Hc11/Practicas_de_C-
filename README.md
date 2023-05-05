@@ -47,5 +47,6 @@ Acceso a BBDD <br>
 Integración con Windows Store <br>
 
 ### Software de uso 
- El IDE o entorno de desarrollo que se va ha estar usar en el desarrollo de C# será Visual Studio 
+ - El IDE o entorno de desarrollo que se va ha estar usar en el desarrollo de C# será <a href="https://visualstudio.microsoft.com/es/">Visual Studio </a>
+ - La Versión estable que se estará usando durante el desarrollo será: 10.0 del 21 de marzo del 2022  
   
