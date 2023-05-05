@@ -23,17 +23,23 @@ Bucles <br>
 Codicionales <br>
 
 ### POO
-<br>Clases <br>
-2). Objetos <br>
-3). Estructuras <br>
-4). Tipos enumerados <br>
-5). Arrays <br>
-6). Herencia <br>
-7). Interfaces <br>
-8). Excepciones <br>
+Clases <br>
+Objetos <br>
+Estructuras <br>
+Tipos enumerados <br>
+Arrays <br>
+Herencia <br>
+Interfaces <br>
+Excepciones <br>
 
 ### Caracteristícas Avanzadas 
-Propuedades, Indexaciones, Tipos genéricos, Colecciones, Sabrecargas, Trabajo con archivos, serialización.
+Propuedades <br> 
+Indexaciones <br>
+Tipos genéricos <br>
+Colecciones <br>
+Sabrecarga <br> 
+Trabajo con archivos <br>
+serialización <br>
 
 ### Construcción de aplicaciones para Windows 10
 Interfaces de usuario, Acceso a BBDD, Integración con Windows Store.
