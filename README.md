@@ -52,4 +52,25 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 
 ### Nivel de conocimiento 
 -Podrá adquirir un nivel de conocimiento "Básico-medio" al finalizar la formación
+
+## Tipos de aplicaciones en C#
+
+### Apicaciones de consolas
+
+  - Son aquellas aplicaciones que se ejecutan desde una ventana de comandos. Este tipo de aplicaciones sulen ser sencillas pero esto no quiere decir que lleguen a ser
+  poco utiles, si no que suelen ser sencillas de aprender que las aplicaciones de escritorio o que las aplicaciones web.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
