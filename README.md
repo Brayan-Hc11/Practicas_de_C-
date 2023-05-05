@@ -55,10 +55,14 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 
 ## Tipos de aplicaciones en C#
 
-### Apicaciones de consolas
+### Aplicaciones de consolas
 
   - Son aquellas aplicaciones que se ejecutan desde una ventana de comandos. Este tipo de aplicaciones sulen ser sencillas pero esto no quiere decir que lleguen a ser
   poco utiles, si no que suelen ser sencillas de aprender que las aplicaciones de escritorio o que las aplicaciones web.
+ 
+### Aplicaciones de escritorio
+  
+  - Son aquellas aplicaciones  que se ejecutan y se visualizan a traves de una IGU (Interfas Gráfica de usuario)/ una ventana interactiva 
 
 
 
