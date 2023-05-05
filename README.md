@@ -62,7 +62,12 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
  
 ### Aplicaciones de escritorio
   
-  - Son aquellas aplicaciones  que se ejecutan y se visualizan a traves de una IGU (Interfas Gráfica de usuario)/ una ventana interactiva 
+  - Son aquellas aplicaciones  que se ejecutan y se visualizan a traves de una IGU (Interfas Gráfica de usuario)/ una ventana interactiva en la que se pueden incluir botones, barras, checbox ...etc
+  
+### Aplicaciones Web
+
+  - Son aquellas aplicaciones que se ejecutan y se vidualizan a traves de un Navegador web.
+  
 
 
 
