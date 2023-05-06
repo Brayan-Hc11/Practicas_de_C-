@@ -101,7 +101,7 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 
 8). despues de haber configurado el proyecto es momento de opirmir el boton de crear y esperar unos cuantos minutos.
 
-![image](https://user-images.githubusercontent.com/118775234/236589819-d2c9e379-d623-4c4b-bdb5-ef32c2e456d5.png)
+![image](https://user-images.githubusercontent.com/118775234/236590000-c36aa069-9ebf-46b4-8863-4a4c4ccfe5cb.png)
 
 
 
