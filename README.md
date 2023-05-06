@@ -79,9 +79,18 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 
 ![image](https://user-images.githubusercontent.com/118775234/236587434-a8a59037-de13-4c82-b2f5-df3b87d26f42.png)
 
-3). si lo deses puedes iniciar con una cuenta u omitir despues de la panatalla de carga podrás configuar el estilo de tu gusto.
+3). si lo deses puedes iniciar con una cuenta u omitir despues de la pantalla de carga.
 
 ![image](https://user-images.githubusercontent.com/118775234/236587737-65d7c5e9-90e8-47ae-85ab-70489364aa14.png)
+
+4). despues de ese proceso podemos configurar un estilo que mas desees a nuestro IDE 
+
+![image](https://user-images.githubusercontent.com/118775234/236588142-12f60422-ba46-46ef-815d-584c7c83ac47.png)
+
+5). para iniciar una nueva aplicación es necesario crear un primer proyecto, dirijimos al apartado de crear un nuevo proyecto que se encuentra en la parte derecha de la pagina. 
+
+![image](https://user-images.githubusercontent.com/118775234/236588531-3c495daf-fafe-45fb-aecb-9ca8891413b9.png)
+
 
 
 
