@@ -71,7 +71,20 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 ## Desarrollo 
   Para el desarrollo de nuestra formación estaremos creando nuestra primera aplicatición de consola usando nuestro IDE <a href="https://visualstudio.microsoft.com/es/">Visual Studio </a>.
 
-1). Para el desarrollo de nuestra primera aplicación de consola, ejecutaremos el IDE 
+1). Para el desarrollo de nuestra primera aplicación de consola, ejecutaremos el IDE <a href="https://visualstudio.microsoft.com/es/">Visual Studio </a> que hemos instalado previmente.
+
+![image](https://user-images.githubusercontent.com/118775234/236587239-69c00571-3aac-4aab-9dd0-34b5c59ff435.png)
+
+2). Iniciaremos el programa oprimiendo el boton de iniciar que se encuentra en la parte lateral derecha.
+
+![image](https://user-images.githubusercontent.com/118775234/236587434-a8a59037-de13-4c82-b2f5-df3b87d26f42.png)
+
+3). si lo deses puedes iniciar con una cuenta u omitir despues de la panatalla de carga podrás configuar el estilo de tu gusto.
+
+![image](https://user-images.githubusercontent.com/118775234/236587737-65d7c5e9-90e8-47ae-85ab-70489364aa14.png)
+
+
+
   
   
 
