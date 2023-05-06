@@ -68,10 +68,10 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 
   - Son aquellas aplicaciones que se ejecutan y se vidualizan a traves de un Navegador web.
 
-## Desarrollo 
+## Instalación y configuración del IDE
   Para el desarrollo de nuestra formación estaremos creando nuestra primera aplicatición de consola usando nuestro IDE <a href="https://visualstudio.microsoft.com/es/">Visual Studio </a>.
 
-1). Para el desarrollo de nuestra primera aplicación de consola, ejecutaremos el IDE <a href="https://visualstudio.microsoft.com/es/">Visual Studio </a> que hemos instalado previmente.
+1). Para el desarrollo de nuestra primera aplicación de consola, ejecutaremos el IDE <a href="https://visualstudio.microsoft.com/es/">Visual Studio </a> que hemos instalado previmente el proceso de instalación puede llegar a tardar un poco mas de una hora y media (instalar los paquetes iniciales).
 
 ![image](https://user-images.githubusercontent.com/118775234/236587239-69c00571-3aac-4aab-9dd0-34b5c59ff435.png)
 
@@ -90,6 +90,16 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 5). para iniciar una nueva aplicación es necesario crear un primer proyecto, dirijimos al apartado de crear un nuevo proyecto que se encuentra en la parte derecha de la pagina. 
 
 ![image](https://user-images.githubusercontent.com/118775234/236588531-3c495daf-fafe-45fb-aecb-9ca8891413b9.png)
+
+6). Al interior de nuestro nuevo proyecto crearemos un archivo de tipo aplicativo de consola o aplicación de consola. 
+
+![image](https://user-images.githubusercontent.com/118775234/236589022-f04ec608-aae2-4909-9797-89710478ae91.png)
+
+7). Ahora procedemos a configurar nuestro aplicativo de consola
+
+![image](https://user-images.githubusercontent.com/118775234/236589286-357f1ade-9908-4f33-b984-8c896026e283.png)
+
+
 
 
 
