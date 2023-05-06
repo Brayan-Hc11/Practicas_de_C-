@@ -95,7 +95,7 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 
 ![image](https://user-images.githubusercontent.com/118775234/236589022-f04ec608-aae2-4909-9797-89710478ae91.png)
 
-7). Ahora procedemos a configurar nuestro aplicativo de consola
+7). Ahora procedemos a configurar nuestro aplicativo de consola nombrandolo como deseemos, recomendable no modificar la ruta de instalación
 
 ![image](https://user-images.githubusercontent.com/118775234/236589286-357f1ade-9908-4f33-b984-8c896026e283.png)
 
