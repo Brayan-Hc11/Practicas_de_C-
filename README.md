@@ -103,19 +103,9 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 
 ![image](https://user-images.githubusercontent.com/118775234/236590000-c36aa069-9ebf-46b4-8863-4a4c4ccfe5cb.png)
 
+9). felicidades ya podemos empezar a programar en C#   
 
-
-
-
-
-
-  
-  
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/118775234/236590376-2d4a1d15-5457-4131-a024-2ef447fe8552.png)
 
 ## Bibliografia
 ### Fuentes de información 
