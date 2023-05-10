@@ -73,11 +73,38 @@ El IDE o entorno de desarrollo que se va ha estar usar en el desarrollo de C# se
 
 1). Para el desarrollo de nuestra primera aplicación de consola, ejecutaremos el IDE [Visual Studio Code](https://code.visualstudio.com/ "Viaula Studio Code") que  ya hemos instalado previmente, el proceso de instalación puede llegar a tardar un poco.
 
-![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/456ef856-795f-4e46-9257-3246b4496d6f)
+![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/302fc708-517c-4372-897f-3c403456ca58)
 
 2). Iniciaremos el programa oprimiendo el icono que se encuentra en el escritorio.
 
-3). Por si soló  [Visual Studio Code](https://code.visualstudio.com/ "Viaula Studio Code") no es capaz de ejecutar  y compliar el código de C#, asi que para poder solucionar este percanse usaremos un SDK que es un conjunto de programas que nos permitira crear ejecutar  
+![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/985f6c0e-8ad9-4c45-bcd3-d6cf149cdebf)
+
+3). Por si soló  [Visual Studio Code](https://code.visualstudio.com/ "Viaula Studio Code") no es capaz de ejecutar  y compliar el código de C#, asi que para poder solucionar este percanse usaremos un [SDK](https://dotnet.microsoft.com/en-us/download "SDK") que es un conjunto de programas que nos permitira crear y ejecutar el código de C#
+
+![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/dfd5f32a-57da-4128-b694-4116cd5546bf)
+
+4). El Dot.Net que estaremos usando será el .Net 7.0 que nos permitira crear nuestras aplicaciones de consolas, la descarga del archivo puede tardar varios minutos.
+
+![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/e008cc72-7002-4787-b717-9c008fb671c5)
+
+5). Procedemos a ejecutar el instalador para poder descargar el archivo, este proceso no debe de tardar demaciado.
+
+![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/0c51bbbe-3143-41f6-82f5-93e1cb599482)
+
+6). para verificar que este instalado de forma correcta y verificar que sea la versión adecuado usaremos la consola de comandos local, para iniciarla usaremos el comando (Win + R) y en el buscador ingresamos las letras "CMD"
+
+![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/5281c5bb-7820-48e5-8bf9-e3b69456b5e4)
+
+7). Ahora dentro de la consola de comandos usaremos el comando (Dotnet --Vesion) y debera saltarnos la información que buscamos.
+
+![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/d5d1c36f-d06d-4855-84ab-c1b4862c0cb4)
+
+8). crearemos una carpeta desde la consola de comandos o terminal con ayuda de los comandos "mkdir projects"
+![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/7c4928f3-6df0-4416-8d6a-f5f52ac73d55)
+
+
+
+
 
 
 ## Bibliografia
