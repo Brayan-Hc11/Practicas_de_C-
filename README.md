@@ -68,11 +68,13 @@ El IDE o entorno de desarrollo que se va ha estar usar en el desarrollo de C# se
   - Son aquellas aplicaciones que se ejecutan y se vidualizan a traves de un Navegador web.
 
 ## Instalación y configuración del IDE
-  Para el desarrollo de nuestra formación estaremos creando nuestra primera aplicatición de consola usando nuestro IDE <a href="https://visualstudio.microsoft.com/es/">Visual Studio </a>.
 
-1). Para el desarrollo de nuestra primera aplicación de consola, ejecutaremos el IDE <a href="https://visualstudio.microsoft.com/es/">Visual Studio </a> que hemos instalado previmente el proceso de instalación puede llegar a tardar un poco mas de una hora y media (instalar los paquetes iniciales).
+ Para el desarrollo de nuestra formación estaremos creando nuestra primera aplicación de consola usando nuestro IDE [Visual Studio Code](https://code.visualstudio.com/ "Viaula Studio Code").
 
-![image](https://user-images.githubusercontent.com/118775234/236587239-69c00571-3aac-4aab-9dd0-34b5c59ff435.png)
+1). Para el desarrollo de nuestra primera aplicación de consola, ejecutaremos el IDE [Visual Studio Code](https://code.visualstudio.com/ "Viaula Studio Code") que  ya hemos instalado previmente, el proceso de instalación puede llegar a tardar un poco.
+
+![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/456ef856-795f-4e46-9257-3246b4496d6f)
+
 
 2). Iniciaremos el programa oprimiendo el boton de iniciar que se encuentra en la parte lateral derecha.
 
