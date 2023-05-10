@@ -15,31 +15,31 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 
 ## Temario de aprendizaje
 
-### Sintaxis de C#
-- Variables <br>
-- Operaciones <br>
-- Expreciones <br>
-- Bucles <br>
-- Codicionales <br>
+1. Sintaxis de C#
+    1. Variables 
+    2. Operaciones 
+    3. Expreciones 
+    4. Bucles 
+    5. Codicionales 
 
-### POO
-- Clases <br>
-- Objetos <br>
-- Estructuras <br>
-- Tipos enumerados <br>
-- Arrays <br>
-- Herencia <br>
-- Interfaces <br>
-- Excepciones <br>
+2. POO
+    1. Clases 
+    2. Objetos 
+    3. Estructuras 
+    4. Tipos enumerados 
+    5. Arrays 
+    6. Herencia 
+    7. Interfaces 
+    8. Excepciones 
 
-### Caracteristícas Avanzadas 
-- Propuedades <br> 
-- Indexaciones <br>
-- Tipos genéricos <br>
-- Colecciones <br>
-- Sabrecarga <br> 
-- Trabajo con archivos <br>
-- serialización <br>
+3. Caracteristícas Avanzadas 
+    1. Propuedades  
+    2. Indexaciones 
+    3. Tipos genéricos 
+    4. Colecciones 
+    5. Sabrecarga  
+    6. Trabajo con archivos 
+    7. serialización 
 
 ### Construcción de aplicaciones para Windows 10
 - Interfaces de usuario <br>
