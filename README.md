@@ -16,21 +16,21 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
 ## Temario de aprendizaje
 
 1. Sintaxis de C#
-    1. Variables 
-    2. Operaciones 
-    3. Expreciones 
-    4. Bucles 
-    5. Codicionales 
+   1. Variables 
+   2. Operaciones 
+   3. Expreciones 
+   4. Bucles 
+   5. Codicionales 
 
 2. POO
-    1. Clases 
-    2. Objetos 
-    3. Estructuras 
-    4. Tipos enumerados 
-    5. Arrays 
-    6. Herencia 
-    7. Interfaces 
-    8. Excepciones 
+   1. Clases 
+   2. Objetos 
+   3. Estructuras 
+   4. Tipos enumerados 
+   5. Arrays 
+   6. Herencia 
+   7. Interfaces 
+   8. Excepciones 
 
 3. Caracteristícas Avanzadas 
     1. Propuedades  
@@ -41,17 +41,16 @@ C# es un lenguaje de programación moderno, innovador, de código abierto, multi
     6. Trabajo con archivos 
     7. serialización 
 
-### Construcción de aplicaciones para Windows 10
-- Interfaces de usuario <br>
-- Acceso a BBDD <br>
-- Integración con Windows Store <br>
+4. Construcción de aplicaciones para Windows 10
+    1. Interfaces de usuario <br>
+    2. Acceso a BBDD <br>
+    3. Integración con Windows Store <br>
 
-### Software de uso 
-- El IDE o entorno de desarrollo que se va ha estar usar en el desarrollo de C# será <a href="https://visualstudio.microsoft.com/es/">Visual Studio </a>
-- La Versión estable que se estará usando durante el desarrollo será: 10.0 del 21 de marzo del 2022
+## Software de uso 
+El IDE o entorno de desarrollo que se va ha estar usar en el desarrollo de C# será [Visual Studio Code](https://code.visualstudio.com/ "Viaula Studio Code"). La Versión estable que se estará usando durante el desarrollo será: 10.0 del 21 de marzo del 2022
 
 ### Nivel de conocimiento 
--Podrá adquirir un nivel de conocimiento "Básico-medio" al finalizar la formación
+ Al finalizar la formación podrá adquirir un nivel de conocimiento "Básico-medio" en el lenguaje de programación C#.
 
 ## Tipos de aplicaciones en C#
 
