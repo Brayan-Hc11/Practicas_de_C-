@@ -99,8 +99,15 @@ El IDE o entorno de desarrollo que se va ha estar usar en el desarrollo de C# se
 
 ![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/d5d1c36f-d06d-4855-84ab-c1b4862c0cb4)
 
-8). crearemos una carpeta desde la consola de comandos o terminal con ayuda de los comandos "mkdir projects"
+8). crearemos una carpeta desde la consola de comandos o terminal con ayuda de los comandos "mkdir projects" de forma instantania se nos aparecera una carpeta en el escritorio bajo en nombre de projects.
+
 ![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/7c4928f3-6df0-4416-8d6a-f5f52ac73d55)
+
+9). dentro de esta carpeta crearemos un directorio  en donde alojaremos nuestra primer aplicación de consola con el una serie de comandos especificos, despues de ejecutar los comandos nos tiene que crear nuestra primera aplicación de consola que se encuentra en una carpeta con el nombre de myfirstapp.
+~~~
+c:\Users\Usuario\OneDrive\Escritorio\Projects>dotnet new console -o myfirstapp
+~~~
+![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/8713e101-34a1-463d-a07b-5152efb3a7e7)
 
 
 
