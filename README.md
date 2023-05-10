@@ -76,6 +76,7 @@ El IDE o entorno de desarrollo que se va ha estar usar en el desarrollo de C# se
 ![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/456ef856-795f-4e46-9257-3246b4496d6f)
 
 2). Iniciaremos el programa oprimiendo el icono que se encuentra en el escritorio.
+
 3). Por si soló  [Visual Studio Code](https://code.visualstudio.com/ "Viaula Studio Code") no es capaz de ejecutar  y compliar el código de C#, asi que para poder solucionar este percanse usaremos un SDK que es un conjunto de programas que nos permitira crear ejecutar  
 
 
