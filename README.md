@@ -115,10 +115,9 @@ c:\Users\Usuario\OneDrive\Escritorio\projects\myfirstapp>code .
 ~~~
 ![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/7df6ddf2-50ab-464e-80e0-d4f2c0af9c46)
 
+11). felicidades ya hemos configurado nuestro IDE para poder iniciar a programar con C#.
 
-
-
-
+![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/d4c09018-660f-4d0a-b32a-d20cbbe94e48)
 
 ## Bibliografia
 ### Fuentes de información 
