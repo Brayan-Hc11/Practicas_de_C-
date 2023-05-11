@@ -109,7 +109,7 @@ c:\Users\Usuario\OneDrive\Escritorio\Projects>dotnet new console -o myfirstapp
 ~~~
 ![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/8713e101-34a1-463d-a07b-5152efb3a7e7)
 
-10). para ejecutar nuestra pirema app tendremos que usar otro comando 
+10). para ejecutar nuestra primera app tendremos que usar el comando, que nos permitira abir el IDE VS Code con la carpeta de nuestra app.
 ~~~
 c:\Users\Usuario\OneDrive\Escritorio\projects\myfirstapp>code . 
 ~~~
