@@ -109,6 +109,12 @@ c:\Users\Usuario\OneDrive\Escritorio\Projects>dotnet new console -o myfirstapp
 ~~~
 ![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/8713e101-34a1-463d-a07b-5152efb3a7e7)
 
+10). para ejecutar nuestra pirema app tendremos que usar otro comando 
+~~~
+c:\Users\Usuario\OneDrive\Escritorio\projects\myfirstapp>code . 
+~~~
+![image](https://github.com/Brayan-Hc11/Practicas_de_C-/assets/118775234/7df6ddf2-50ab-464e-80e0-d4f2c0af9c46)
+
 
 
 
