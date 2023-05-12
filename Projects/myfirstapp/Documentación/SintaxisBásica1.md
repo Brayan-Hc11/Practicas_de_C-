@@ -75,4 +75,66 @@ namespace PrimeraAplicación
 }
 ~~~
 
+## Los errores de sintaxis en C#
+
+En C# los errores de sintaxis en programas muy extensos llegan a ser mas comunes de lo que se cree. para poder identificar los errores de sintaxis el programa nos mostrar al costado izquierdo de la linea en la cual se esta presentando el error una bombilla o en otros casos un destornillador junto una linea de color rojo que se encontrara en la parte de abajo de la instrucción.
+
+si por alguna razon llagamos a depurar el programa, en la consola se nos mostrará un error de complición que nos va a describir cual es el error que se ha identificado en el programa, el error de compilación no desaparecera de la  consola hasta que solucionemos los errores de sintaxis que se presentan en el programa.
+
+## Las palabras reservadas o identificadores
+
+Los identificadores son aquellas palabras unicas y predifinidas que se encuentran en el código, este tipo de palabras no se pueden usar en variables o constantes ya que al ser palbras predifinidas su función ya esta establecida en el programa. esta se usan para poder identificar los elementos que se encuentren en el programa como lo pueden ser:
+
+- Namespace
+- Clases o class
+- Métodos 
+- Variables 
+- Constantes 
+
+1. Para poder usar un edentificador es necesario saber que solo esta permitido usar letras pueden ser mayúsculas o minúsculas, guines bajos , números.
+
+#### Ejemplo:
+
+~~~
+namespace PrimeraAplicación
+
+/* Este es un buen identificador ya que cuenta con los requerimientos basicos para un identificador funcional*/
+
+namespace Pimera-Aplicación 
+
+/* Esto es un mal identificador ya que posee caracteres los cuales no estan pirmitidos en C#, si se llega a usar de esta forma nos saltara un error de sintaxis*/
+~~~
+
+2. Los identificadores en C# deben empezar por guiones bajos o nombres pero no puden inicar con números ademas los identiifcadores no deben de poseer un espacio en su interior  
  
+#### Ejemplo:
+
+~~~
+namespace PrimeraAplicación2
+
+/* Este es un buen identificador ya que cuenta con los requerimientos basicos para un identificador funcional*/
+
+namespace -Pimera Aplicación 
+
+/* Esto es un mal identificador ya que posee caracteres los cuales no estan pirmitidos en C#, si se llega a usar de esta forma nos saltara un error de sintaxis*/
+~~~
+
+3. Para poder establecer un identificador nuevo no se pueden usar la palabras claves o palabras reservadas, ya que este tipo de palabras son las que se llegan a usar por el lenguaje de programación para sus propios propositos, las palabra reservadas son faciles de identificar ya que poseen un color azul.
+
+#### Ejemplo:
+
+~~~
+
+class nameespace
+
+// Esta clase esta mal estructurada ya que cuenta con una palabra reservada. 
+
+~~~
+
+## Convenciones en C#
+
+Las convenciones son aquellas acciones que no solo nos permiten tener un código funcional, si que tambien lejible ya que nos dicen de que forma correcta se estructura un programa.
+
+- Espacios: los espacios en C# son fundamentales e infinitos pero lo recomendable es no llegar a sobrepasarse de ciertos limitantes 
+
+- Sangrias: la sangria es la separación que realizamos del código fuente ante la margen que podemos ver el los IDE, tener una buen sangria nos permitira tener un programa mas legible.
